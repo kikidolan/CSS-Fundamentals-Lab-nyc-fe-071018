@@ -7,7 +7,10 @@ h1 {
   text-align:center;
 }
 nav {
-  text-align:center;background-color:gray;
+  text-align:center;
+}
+a {
+background-color:gray;
 }
 
 img {
