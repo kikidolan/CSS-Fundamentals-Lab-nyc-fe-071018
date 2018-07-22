@@ -24,3 +24,6 @@ img {
 #details {
   display:block;
 }
+div {
+  background-color:red;
+}
